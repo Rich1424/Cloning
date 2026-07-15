@@ -1,5 +1,5 @@
 # Cloning
-I want this delete the last line of this file
+Start all afresh!
 
 I am trying to clone and use this remote repo locally only my laptop
 
